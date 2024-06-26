@@ -1,0 +1,7 @@
+input_string = input("Введите строку: ")
+
+lower_case_string = input_string.lower()
+print("Строка в нижнем регистре:", lower_case_string)
+
+upper_case_string = input_string.upper()
+print("Строка в верхнем регистре:", upper_case_string)
